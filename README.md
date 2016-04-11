@@ -1,3 +1,3 @@
-# RCA (Red Cross Applicatio)
+# RCA (Red Cross Application)
 
 Inicijalni , probni.
